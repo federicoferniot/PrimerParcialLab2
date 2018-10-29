@@ -1,0 +1,6 @@
+D:\VisualStudio\Parcial\Ferniot.Federico\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Parcial\Ferniot.Federico\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Parcial\Ferniot.Federico\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Parcial\Ferniot.Federico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Parcial\Ferniot.Federico\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Parcial\Ferniot.Federico\Entidades\obj\Debug\Entidades.pdb

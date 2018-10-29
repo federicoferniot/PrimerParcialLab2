@@ -1,0 +1,10 @@
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\bin\Debug\VistaConsola.exe
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\bin\Debug\Entidades.dll
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\bin\Debug\Entidades.pdb
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\obj\Debug\VistaConsola.exe
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaConsola\obj\Debug\VistaConsola.pdb

@@ -1,0 +1,13 @@
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\bin\Debug\VistaForm.exe.config
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\bin\Debug\VistaForm.exe
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\bin\Debug\VistaForm.pdb
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\bin\Debug\Entidades.dll
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\bin\Debug\Entidades.pdb
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\obj\Debug\VistaForm.frmPickUp.resources
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\obj\Debug\VistaForm.exe
+D:\VisualStudio\Parcial\Ferniot.Federico\VistaForm\obj\Debug\VistaForm.pdb
